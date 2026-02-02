@@ -16,6 +16,19 @@ VeloxOS is a performance-optimized Linux distribution designed for modern hardwa
 - [**Wiki**](https://github.com/VeloxOSLinux/wiki) - Our official documentation.
 - [**ISO-Profiles**](https://github.com/VeloxOSLinux/veloxos-profiles) - The building blocks of our customized ISOs.
 
+## 🗺️ Development Roadmap
+VeloxOS is a work in progress. Below are the primary milestones we are currently focusing on. You can track our progress here:
+### 🛠️ Core System & Optimization
+- [ ] **zRAM Auto-Configuration**: Implement automated setup for zRAM to improve memory management and system responsiveness out of the box.
+- [ ] **CachyOS Repository Integration**: Automate the import and trust process for cachyos-repo PGP keys to ensure seamless updates from the CachyOS repositories.
+
+### 🎨 User Experience & Branding
+- [ ] **Custom Calamares Theme**: Design and integrate a unique visual identity for the Calamares installer to provide a cohesive VeloxOS experience from the very first minute.
+- [ ] **GNOME Rebranding & Theming**: Develop a custom GNOME desktop layout, including specific extensions, shell themes, and iconography that defines the VeloxOS aesthetic.
+
+### 💡 How to Contribute
+f you want to help us speed up these tasks, feel free to open a Pull Request or join our discussions in the [Issue Tracker].
+
 ## 🌐 Connect with Us
 
 - **Website:** [veloxos.org](https://veloxos.org)
