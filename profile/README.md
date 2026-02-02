@@ -14,7 +14,7 @@ VeloxOS is a performance-optimized Linux distribution designed for modern hardwa
 ## 📂 Key Repositories
 
 - [**Wiki**](https://github.com/VeloxOSLinux/wiki) - Our official documentation.
-- [**ISO-Profiles**](https://github.com/VeloxOSLinux/iso-profiles) - The building blocks of our customized ISOs.
+- [**ISO-Profiles**](https://github.com/VeloxOSLinux/veloxos-profiles) - The building blocks of our customized ISOs.
 
 ## 🌐 Connect with Us
 
