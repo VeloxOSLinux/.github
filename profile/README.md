@@ -16,15 +16,22 @@ VeloxOS is a performance-optimized Linux distribution designed for modern hardwa
 - [**Wiki**](https://github.com/VeloxOSLinux/wiki) - Our official documentation.
 - [**ISO-Profiles**](https://github.com/VeloxOSLinux/veloxos-profiles) - The building blocks of our customized ISOs.
 
-## 🗺️ Development Roadmap
+## 🗺️ Roadmap 2026/2027
 VeloxOS is a work in progress. Below are the primary milestones we are currently focusing on. You can track our progress here:
-### 🛠️ Core System & Optimization
-- [ ] **zRAM Auto-Configuration**: Implement automated setup for zRAM to improve memory management and system responsiveness out of the box.
-- [ ] **CachyOS Repository Integration**: Automate the import and trust process for cachyos-repo PGP keys to ensure seamless updates from the CachyOS repositories.
+### 🎨 Phase 1: The Identity (Spring 2026)
+- [ ] Custom Calamares Installer & Branding
+- [ ] VeloxOS GNOME Desktop Environment (Custom Layout & Extensions)
+- [ ] Milestone: First Public Technical Preview (ISO)
 
-### 🎨 User Experience & Branding
-- [ ] **Custom Calamares Theme**: Design and integrate a unique visual identity for the Calamares installer to provide a cohesive VeloxOS experience from the very first minute.
-- [ ] **GNOME Rebranding & Theming**: Develop a custom GNOME desktop layout, including specific extensions, shell themes, and iconography that defines the VeloxOS aesthetic.
+### 🛠 Phase 2: The Optimization (Summer 2026)
+- [ ] Automated zRAM & Performance Tuning
+- [ ] Full CachyOS Repo & PGP Key Integration (Automated)
+- [ ] Milestone: First Stable Release Candidate
+
+### 💡 Phase 3: Long-term Goals (Vision / 2027 – TBD)
+- [ ]  Independent VeloxOS Repository Staging: Building our own infrastructure to host and curate packages.
+- [ ]  Advanced Update-Governance: Implementing a dedicated Testing-to-Stable pipeline to ensure maximum reliability between Manjaro and CachyOS components.
+- `Note: This phase will be evaluated based on community feedback and project growth.`
 
 ### 💡 How to Contribute
 f you want to help us speed up these tasks, feel free to open a Pull Request or join our discussions in the [Issue Tracker].
