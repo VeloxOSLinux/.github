@@ -14,13 +14,13 @@ VeloxOS is a performance-optimized Linux distribution designed for modern hardwa
 ## 📂 Key Repositories
 
 - [**Wiki**](https://github.com/VeloxOSLinux/wiki) - Our official documentation.
-- [**ISO-Profiles**](https://github.com/VeloxOSLinux/veloxos-profiles) - The building blocks of our customized ISOs.
+- [**VeloxOS-Profiles**](https://github.com/VeloxOSLinux/veloxos-profiles) - The building blocks of our customized ISOs.
 
 ## 🗺️ Roadmap 2026/2027
 VeloxOS is a work in progress. Below are the primary milestones we are currently focusing on. You can track our progress here:
 ### 🎨 Phase 1: The Identity (Spring 2026)
-- [ ] Custom Calamares Installer & Branding
-- [ ] VeloxOS GNOME Desktop Environment (Custom Layout & Extensions)
+- [x] Custom Calamares Installer & Branding
+- [ ] VeloxOS COSMIC Desktop Environment (Custom Layout & Extensions)
 - [ ] Milestone: First Public Technical Preview (ISO)
 
 ### 🛠 Phase 2: The Optimization (Summer 2026)
